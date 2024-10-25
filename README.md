@@ -1,1 +1,1 @@
-Preacticas de Laboratorio de Programacion 2
+Practicas de Laboratorio de Programacion 2
