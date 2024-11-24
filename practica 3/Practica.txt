@@ -1,0 +1,16 @@
+Practica 3: 
+1. Realiza un programa que al recibir diferentes coordenadas de un plano carteiasno, 
+indique el cuadrante de donde ubica dicha coordenada.
+
+2. Con el mismo programa, evaluar cuales de las coordenadas dadas 
+pertenece a la misma linea dentro plano cartesiano (imprimir ecuacion).
+
+realizar un commit siguiendo el formato dado
+
+3. Realizar un programa que dado los limites de un cuadrante, y un arreglo de puntos.
+Indique la distancia maxima encontrada entre dos puntos del arreglo dentro de los limmites del cuadrante.
+
+4. Imprimir para un solo punto del arreglo, las distancias a cada punto dentro del arreglo.
+(dentro del mismo cuadrante)
+
+realizar un commit
